@@ -1,9 +1,9 @@
 ### Hello, guys! 👋
 
-I'm Rodrigo Lourenço from Brazil. I've been working as a Front-End Developer since 2015 and currently I'm Senior Front-End Engenieer at [Midway](https://www.midway.com.br/). 💪🏻
+I'm Rodrigo Lourenço from sunny Brazil. Been tinkering as a Front-End Developer since 2015, and now I'm flexing my skills as a Software Engineer at [Tienda](https://www.nuvemshop.com.br/). 💪🏻☁️
 
-I really like movies, TV shows or even games but what I love ever is the code. I've been making a lot of things so cool with ReactJS, GraphQL and Node.
+When I'm not glued to my screen, I'm all about movies, TV shows, or diving into some epic gaming adventures. But let's be real, my true love? It's coding. JavaScript and Node... you name it, I've probably played around with it.
 
-Would you like to find me?
+Wanna track me down? Hit me up!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lourenco-rodrigo)](https://www.linkedin.com/in/lourenco-rodrigo)
